@@ -9,4 +9,4 @@ nucleotide context in the format of "A[A>G]C"
 
 A sample image generated using the code is as shown below
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/kartong88/Plot-Mutation-Landscape/blob/master/sample.png "Sample Mutation Signature")
